@@ -1,5 +1,6 @@
 Godot Material Merger & Atlas Optimizer
 Dramatically reduce draw calls and streamline your Godot Engine projects by merging materials and generating optimized texture atlases with ease.
+![Screenshot 2025-05-23 002533](https://github.com/user-attachments/assets/f410558b-aeb6-4a59-bdc9-bec7f6942dee)
 
    ## 1. Overview
 
