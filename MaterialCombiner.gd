@@ -1,4 +1,4 @@
-# TextureAtlasCombinerStd.gd
+# MaterialCombiner.gd by necat101 (netcat7 discord)
 # Merges descendant MeshInstance3D nodes, atlassing Albedo textures AND Albedo colors
 # from BaseMaterial3D/StandardMaterial3D.
 # Attempts to preserve skinning data. Manual Skeleton3D assignment now supported.
